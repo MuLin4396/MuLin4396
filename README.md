@@ -21,8 +21,8 @@
   </div>
   
   <!-- 右侧上下排布两个统计图 -->
-  <div style="flex: 1; display: flex; flex-direction: column;">
-    <img src="https://github-readme-stats.vercel.app/api?username=MuLin4396&count_private=true&show_icons=true&theme=transparent" alt="GitHub Stats" style="width: 40%; height: auto; margin-bottom: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuLin4396" alt="Top Languages" style="width: 40%; height: auto;">
+  <div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=MuLin4396&count_private=true&show_icons=true&theme=transparent" alt="GitHub Stats" style="width: 100%; height: auto; margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuLin4396" alt="Top Languages" style="width: 100%; height: auto;">
   </div>
 </div>
