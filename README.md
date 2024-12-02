@@ -14,6 +14,19 @@
 
 [//]: # (![]&#40;https://github.com/MuLin4396/NCM-Card/blob/master/card.svg&#41;)
 
+<style>
+  .container {
+    display: flex;
+    justify-content: space-between;
+  }
+  .left, .right {
+    width: 48%;
+  }
+  .right img {
+    width: 100%;
+    margin-bottom: 1em; /* 添加一些间距 */
+  }
+</style>
 <div class="container">
   <div class="left">
     <img src="https://github.com/MuLin4396/NCM-Card/blob/master/card.svg" alt="NCM Card">
