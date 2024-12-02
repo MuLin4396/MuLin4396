@@ -1,6 +1,6 @@
-## Hi there 👋 @MuLin4396
+# Hi there 👋 @MuLin4396
 
-![](https://github.com/MuLin4396/MuLin4396/blob/main/Asset/A_FuNingNa.png)
+[//]: # (![]&#40;https://github.com/MuLin4396/MuLin4396/blob/main/Asset/A_FuNingNa.png&#41;)
 
 ![](https://github.com/MuLin4396/MuLin4396/blob/snake-output/github-contribution-grid-snake.svg)
 
