@@ -14,12 +14,10 @@
 
 [//]: # (![]&#40;https://github.com/MuLin4396/NCM-Card/blob/master/card.svg&#41;)
 
-<div class="container">
-  <div class="left">
+  <div>
     <img src="https://github.com/MuLin4396/NCM-Card/blob/master/card.svg" alt="NCM Card">
   </div>
-  <div class="right">
+  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=MuLin4396&count_private=true&show_icons=true&theme=transparent" alt="GitHub Stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuLin4396" alt="Top Languages">
   </div>
-</div>
