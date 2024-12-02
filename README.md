@@ -1,6 +1,6 @@
 ## Hi there 👋 @MuLin4396
 
-![](https://raw.githubusercontent.com/MuLin4396/MuLin4396/snake-output/github-contribution-grid-snake-dark.svg)
+![](https://raw.githubusercontent.com/MuLin4396/MuLin4396/snake-output/github-contribution-grid-snake.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuLin4396)
 
