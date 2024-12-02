@@ -6,4 +6,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuLin4396)
 
-![card](https://github.com/MuLin4396/NCM-Card/netease-music-card-fixed/blob/main/card.svg)
+![card](https://github.com/MuLin4396/NCM-Card/blob/master/card.svg)
