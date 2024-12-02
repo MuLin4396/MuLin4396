@@ -1,5 +1,7 @@
 ## Hi there 👋 @MuLin4396
 
+![](https://raw.githubusercontent.com/MuLin4396/MuLin4396/main/assets/github-contribution-grid-snake.svg)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuLin4396)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuLin4396)
