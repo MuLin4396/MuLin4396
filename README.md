@@ -14,34 +14,15 @@
 
 [//]: # (![]&#40;https://github.com/MuLin4396/NCM-Card/blob/master/card.svg&#41;)
 
-<!DOCTYPE html>
-<html lang="zh">
-<head>
-<meta charset="UTF-8">
-<title>个人GitHub统计</title>
-<style>
-  .container {
-    display: flex;
-    justify-content: space-between;
-  }
-  .left, .right {
-    width: 48%;
-  }
-  .right img {
-    width: 100%;
-    margin-bottom: 1em; /* 添加一些间距 */
-  }
-</style>
-</head>
-<body>
-<div class="container">
-  <div class="left">
-    <img src="https://github.com/MuLin4396/NCM-Card/blob/master/card.svg" alt="NCM Card">
+<div style="display: flex; align-items: center;">
+  <!-- 左侧显示card.svg -->
+  <div style="flex: 1; margin-right: 20px;">
+    <img src="https://github.com/MuLin4396/NCM-Card/blob/master/card.svg" alt="NCM Card" style="width: 100%; height: auto;">
   </div>
-  <div class="right">
-    <img src="https://github-readme-stats.vercel.app/api?username=MuLin4396&count_private=true&show_icons=true&theme=transparent" alt="GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuLin4396" alt="Top Languages">
+  
+  <!-- 右侧上下排布两个统计图 -->
+  <div style="flex: 1; display: flex; flex-direction: column;">
+    <img src="https://github-readme-stats.vercel.app/api?username=MuLin4396&count_private=true&show_icons=true&theme=transparent" alt="GitHub Stats" style="width: 100%; height: auto; margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuLin4396" alt="Top Languages" style="width: 100%; height: auto;">
   </div>
 </div>
-</body>
-</html>
